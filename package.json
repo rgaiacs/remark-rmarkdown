@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/rgaiacs/remark-rmarkdown#readme",
   "dependencies": {
-    "retext": "^7.0.1",
+    "remark": "^13.0.0",
+    "remark-frontmatter": "^3.0.0",
     "unist-util-visit": "^2.0.3",
     "vfile-reporter": "^6.0.2"
   }
