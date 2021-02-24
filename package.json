@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rgaiacs/remark-rmarkdown/issues"
   },
-  "homepage": "https://github.com/rgaiacs/remark-rmarkdown#readme"
+  "homepage": "https://github.com/rgaiacs/remark-rmarkdown#readme",
+  "dependencies": {
+    "retext": "^7.0.1",
+    "unist-util-visit": "^2.0.3",
+    "vfile-reporter": "^6.0.2"
+  }
 }
