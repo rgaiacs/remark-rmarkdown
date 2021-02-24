@@ -1,0 +1,19 @@
+{
+  "name": "remark-rmarkdown",
+  "version": "1.0.0",
+  "description": "Plugin to remark to support R Markdown code chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgaiacs/remark-rmarkdown.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgaiacs/remark-rmarkdown/issues"
+  },
+  "homepage": "https://github.com/rgaiacs/remark-rmarkdown#readme"
+}
